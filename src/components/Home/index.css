@@ -1,0 +1,17 @@
+.downCont {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.img2 {
+  width: 150px;
+}
+
+.headEdit3 {
+  color: #551e53;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: 'Roboto';
+}

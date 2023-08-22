@@ -1,0 +1,44 @@
+.navCont {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 30px;
+}
+
+.imgEdit1 {
+  height: 40px;
+  width: 40px;
+}
+
+.titleAndLogoCont {
+  display: flex;
+  align-items: center;
+  width: 30%;
+  justify-content: space-evenly;
+}
+
+.headEdit1 {
+  color: black;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.headerCont {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.listEdit {
+  list-style-type: none;
+}
+
+.linkEdit {
+  color: #12022f;
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: bold;
+  text-decoration: none;
+  margin-left: 16px;
+}
